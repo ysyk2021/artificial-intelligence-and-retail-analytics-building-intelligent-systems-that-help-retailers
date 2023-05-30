@@ -23,7 +23,7 @@ This book is suitable for a wide range of audiences, including:
 
 Overall, this book is a must-read for anyone interested in the future of the retail industry and the ways in which AI and analytics are transforming retail operations and customer experience. It provides readers with practical insights and guidance on how to leverage AI and analytics in their organizations and stay ahead of the competition in an increasingly crowded retail landscape.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 Retail data analytics
