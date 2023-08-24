@@ -1,5 +1,3 @@
-Chapter 9: Case Studies of AI in Retail Analytics
-=================================================
 
 Successful Implementations of AI in Different Retail Fields
 -----------------------------------------------------------

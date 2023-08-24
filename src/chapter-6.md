@@ -1,5 +1,3 @@
-Chapter 6: Economic Implications of AI in Retail Analytics
-==========================================================
 
 The integration of Artificial Intelligence (AI) into retail analytics has brought about significant economic implications. In this chapter, we will discuss the cost savings and efficiency improvements that AI has introduced to the retail industry and how it has impacted job creation and training needs.
 

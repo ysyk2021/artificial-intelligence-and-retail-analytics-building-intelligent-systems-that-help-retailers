@@ -1,5 +1,3 @@
-Customer Segmentation and Targeting
-=====================================================================================
 
 In this chapter, we will explore how AI-powered retail analytics solutions can help retailers with customer segmentation and targeting.
 

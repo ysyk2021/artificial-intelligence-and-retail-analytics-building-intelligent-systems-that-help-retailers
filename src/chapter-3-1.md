@@ -1,5 +1,3 @@
-Global Trends in Retail Industry
-=============================================================
 
 The retail industry is constantly evolving due to emerging technologies, changing consumer habits, and economic factors. In this chapter, we will examine some of the global trends that are shaping the current retail landscape.
 

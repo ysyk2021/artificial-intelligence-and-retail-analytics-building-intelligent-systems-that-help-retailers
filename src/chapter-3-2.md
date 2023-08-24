@@ -1,5 +1,3 @@
-Components of Retail Analytics
-===========================================================
 
 Retail analytics involves the collection and analysis of data from various sources to gain insights into customer behavior, sales trends, and operational efficiency. In this chapter, we will discuss the key components of retail analytics.
 

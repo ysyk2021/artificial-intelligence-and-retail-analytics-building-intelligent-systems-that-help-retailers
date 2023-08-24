@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 In this chapter, we will provide an overview of the history and fundamentals of artificial intelligence (AI), including the different types of AI and machine learning techniques used in retail analytics.
 

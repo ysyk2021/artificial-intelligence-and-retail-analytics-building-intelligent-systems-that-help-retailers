@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial Intelligence (AI) has become an increasingly important topic in the field of retail analytics. With the rise of big data and advanced analytics, AI tools have become essential for retailers to make better business decisions. In this chapter, we will provide an overview of the background and fundamentals of AI, including the types of AI.
 

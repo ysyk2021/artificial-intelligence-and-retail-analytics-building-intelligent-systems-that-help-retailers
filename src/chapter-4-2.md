@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Retail Analytics
-===============================================================================================
 
 In recent years, the use of artificial intelligence (AI) in retail analytics has become increasingly popular. However, there are still many challenges and limitations that retailers must consider when implementing AI in their operations. In this chapter, we will explore some of these challenges and limitations.
 

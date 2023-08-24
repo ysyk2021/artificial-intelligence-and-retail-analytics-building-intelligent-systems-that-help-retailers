@@ -1,5 +1,3 @@
-Chapter 3: Retail Landscape
-===========================
 
 In this chapter, we will explore the global trends in the retail industry and the components of retail analytics.
 

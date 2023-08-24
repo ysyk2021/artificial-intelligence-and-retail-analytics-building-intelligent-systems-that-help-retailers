@@ -1,5 +1,3 @@
-Inventory Management and Optimization
-=======================================================================================
 
 In this chapter, we will explore how AI-powered retail analytics solutions can help retailers with inventory management and optimization.
 

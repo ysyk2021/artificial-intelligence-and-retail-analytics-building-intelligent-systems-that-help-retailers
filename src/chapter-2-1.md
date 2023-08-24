@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial Intelligence (AI) has become an integral part of our lives in recent years, from virtual assistants on our smartphones to self-driving cars. However, the concept of AI has been around for centuries.
 

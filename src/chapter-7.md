@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Retail Analytics
-=====================================================================
 
 As artificial intelligence becomes increasingly integrated into retail analytics, it is important to consider the ethical and legal implications of its use. In this chapter, we will discuss some of the key issues that retailers should be aware of when using AI in their business.
 

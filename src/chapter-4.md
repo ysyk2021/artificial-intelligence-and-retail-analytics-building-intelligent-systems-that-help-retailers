@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Retail Analytics
-=========================================
 
 Retailers are increasingly relying on data analytics to better understand customer behavior and improve their operations. Artificial Intelligence (AI) has emerged as a key tool for retailers to extract insights from vast amounts of data. In this chapter, we will explore the role of AI in retail analytics.
 
