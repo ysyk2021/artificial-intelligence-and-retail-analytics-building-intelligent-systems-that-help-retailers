@@ -1,7 +1,4 @@
 
-Introduction
-------------
-
 Artificial intelligence (AI) has become a buzzword in recent years, with many industries exploring the use of AI to make better business decisions. One such industry is retail, which has seen a lot of success using AI to improve customer experience, optimize pricing, and manage inventory. In this chapter, we will explore the background and fundamentals of AI, focusing on machine learning techniques that are commonly used in retail analytics.
 
 What is Artificial Intelligence?
