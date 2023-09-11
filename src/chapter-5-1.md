@@ -1,5 +1,4 @@
-Chapter 6: Customer Segmentation and Targeting
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Customer segmentation and targeting play a vital role in retail marketing strategies. This chapter explores how artificial intelligence (AI) and retail analytics can be utilized to segment customers effectively and target them with personalized marketing campaigns.
 

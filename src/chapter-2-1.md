@@ -1,5 +1,4 @@
-Chapter 1: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has a rich and fascinating history. This chapter explores the key milestones and breakthroughs that have shaped the development of AI over the years.
 

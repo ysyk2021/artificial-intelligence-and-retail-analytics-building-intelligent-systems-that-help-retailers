@@ -1,5 +1,4 @@
-Chapter 8: Global Trends in the Retail Industry
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The retail industry is rapidly evolving, driven by technological advancements, changing consumer behaviors, and emerging market trends. This chapter explores some of the key global trends impacting the retail industry, and how artificial intelligence (AI) and retail analytics are helping retailers adapt to these changes.
 

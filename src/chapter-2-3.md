@@ -1,5 +1,4 @@
-Chapter 2: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning techniques play a pivotal role in the field of artificial intelligence (AI) and retail analytics. This chapter explores some key machine learning techniques that help retailers extract valuable insights from their data and make better business decisions.
 

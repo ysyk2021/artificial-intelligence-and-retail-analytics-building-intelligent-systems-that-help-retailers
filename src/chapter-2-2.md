@@ -1,5 +1,4 @@
-Chapter 3: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) encompasses various approaches to creating intelligent systems. This chapter explores some key types of AI and how they apply to retail analytics.
 

@@ -1,5 +1,4 @@
-Chapter 5: Inventory Management and Optimization
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective inventory management is crucial for retailers to meet customer demand, minimize costs, and maximize profitability. This chapter explores how artificial intelligence (AI) and retail analytics can be utilized to optimize inventory management processes.
 

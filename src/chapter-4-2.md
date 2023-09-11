@@ -1,5 +1,4 @@
-Chapter 7: Challenges and Limitations of AI in Retail Analytics
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While artificial intelligence (AI) offers significant benefits for retail analytics, there are also various challenges and limitations in its implementation. This chapter will explore some of these hurdles.
 

@@ -1,5 +1,4 @@
-Chapter 4: Benefits of AI in Retail Analytics
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has revolutionized the retail industry by enabling advanced analytics capabilities. In this chapter, we will explore the numerous benefits that AI brings to retail analytics, empowering retailers to make better business decisions and drive success.
 

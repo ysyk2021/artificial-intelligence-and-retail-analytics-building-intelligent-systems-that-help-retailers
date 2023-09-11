@@ -1,5 +1,4 @@
-Chapter 4: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) and retail analytics offer immense potential for improving business decisions, but they also raise important ethical considerations. This chapter explores key ethical considerations that retailers must address when deploying intelligent systems.
 

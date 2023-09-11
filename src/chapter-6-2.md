@@ -1,5 +1,4 @@
-Chapter 8: Job Creation and Training Needs
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) and retail analytics has profound implications for job creation and the changing skill sets required in the retail industry. In this chapter, we will explore the impact of AI on job roles, the emerging job opportunities, and the training needs that accompany this technological transformation.
 

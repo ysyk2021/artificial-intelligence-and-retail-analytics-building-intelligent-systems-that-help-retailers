@@ -1,5 +1,4 @@
-Chapter 7: Components of Retail Analytics
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Retail analytics is a powerful tool that enables retailers to extract actionable insights from vast amounts of data. This chapter explores the key components of retail analytics and how they contribute to making better business decisions using artificial intelligence (AI) technologies.
 
